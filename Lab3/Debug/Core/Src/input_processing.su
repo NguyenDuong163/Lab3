@@ -1,0 +1,4 @@
+input_processing.c:14:6:fsm_for_input_processing	8	static
+input_processing.c:37:6:IncreaseManualValue	4	static
+input_processing.c:56:6:setDurationValue	16	static
+input_processing.c:81:6:UpdateDurationValue	8	static
