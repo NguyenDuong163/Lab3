@@ -1,0 +1,7 @@
+led_display.c:9:7:display7SEG	16	static
+led_display.c:119:7:resetToInitial	4	static
+led_display.c:125:7:NormalMode	8	static
+led_display.c:210:6:get7SEG1Value	4	static
+led_display.c:226:6:get7SEG2Value	4	static
+led_display.c:242:7:LEDScanning	8	static
+led_display.c:294:6:LedDispMode	8	static
