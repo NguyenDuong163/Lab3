@@ -71,8 +71,8 @@ void setDurationValue(){
 	case 4:
 		dif=green_manual-green_value;
 		green_value=green_manual;
-		green_value+=dif;
-		green_manual+=dif;
+		red_value+=dif;
+		red_manual+=dif;
 		break;
 	default:
 		break;
